@@ -11,4 +11,9 @@ Currently there are 3 roles added role1,role2,role3
 How to add roles:
 When you want to add roles or edit roles please enter the roles in comma separated format and no spaces between them. Ex. role1,role2,role3
 
+What do the integer accesslevels mean:
+1- Only read
+4- Read and Write
+7- Read, Write and Delete
+
 
